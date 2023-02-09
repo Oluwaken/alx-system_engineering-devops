@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod date--set = "STRING" hwclock = -systohc
+chmod 753 hello
